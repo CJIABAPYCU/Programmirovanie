@@ -14,7 +14,7 @@ public class Main {
 
         b.addAlly(stunfisk);
         b.addAlly(espurr);
-        b.addAlly(pichu);
+//        b.addAlly(pichu);
 
         b.addFoe(meowsticMale);
         b.addFoe(pikachu);
